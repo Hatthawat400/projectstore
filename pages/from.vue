@@ -1,7 +1,7 @@
 <template>
   <div>
     <h2>จองห้องพักโรงแรม</h2>
-    <v-card class="mx-auto pa-6" color="#26c6da" max-width="900" elevation="15">
+    <v-card class="mx-auto pa-6" color="#7598d9" max-width="900" elevation="15">
       <h3>รายละเอียดลูกค้า</h3>
       <v-form ref="form" v-model="valid" lazy-validation>
         <v-row>
